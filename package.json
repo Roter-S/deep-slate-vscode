@@ -2,7 +2,7 @@
   "name": "deep-slate",
   "displayName": "Deep Slate",
   "description": "A dark theme with deep blue-gray tones",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Roter-S",
   "engines": {
     "vscode": "^1.60.0"
@@ -37,5 +37,6 @@
     "type": "git",
     "url": "https://github.com/Roter-S/deep-slate-vscode"
   },
+  "icon": "images/icon.png",
   "license": "MIT"
 }
